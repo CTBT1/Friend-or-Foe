@@ -1,0 +1,4 @@
+name: forf
+version: '1.0-SNAPSHOT'
+main: xyz.ctbt.forf.Forf
+api-version: '1.21'
