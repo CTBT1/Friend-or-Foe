@@ -2,3 +2,8 @@ name: forf
 version: '1.0-SNAPSHOT'
 main: xyz.ctbt.forf.Forf
 api-version: '1.21'
+
+commands:
+  lives:
+    description: Shows your remaining lives
+    usage: /<command>
